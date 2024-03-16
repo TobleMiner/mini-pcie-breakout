@@ -1,0 +1,7 @@
+"Comment","Designator","Footprint","LCSC Part #"
+"10uF","C1,C2,C3,C4,C5,C6,C7,C8,C9","C_0402_1005Metric","C15525"
+"100nF","C10","C_0402_1005Metric","C1525"
+"Standoff","H1,H2","SMTSO25xx","C2915631"
+"miniPCIe","J1","BUS_PCI_Express_Mini_Dual","C444927"
+"10k","R1","R_0402_1005Metric","C25744"
+"AMS1117-1.5","U1","SOT-223-3_TabPin2","C347219"
