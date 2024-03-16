@@ -1,0 +1,38 @@
+Source,/home/tsys/work/pcb/mini-pcie-breakout/mini-pcie-breakout.kicad_sch
+Kicad Rev,Eeschema (6.0.2)
+Generated Date,Do 24 Feb 2022 00:17:56 CET
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,LCSC,Library,Library Ref
+C1,10uF,C15525,Device,C_Small
+C2,10uF,C15525,Device,C_Small
+C3,10uF,C15525,Device,C_Small
+C4,10uF,C15525,Device,C_Small
+C5,10uF,C15525,Device,C_Small
+C6,10uF,C15525,Device,C_Small
+C7,10uF,C15525,Device,C_Small
+C8,10uF,C15525,Device,C_Small
+C9,10uF,C15525,Device,C_Small
+C10,100nF,C1525,Device,C_Small
+H1,Standoff,C2915631,Mechanical,MountingHole_Pad
+H2,Standoff,C2915631,Mechanical,MountingHole_Pad
+H3,DNP,Mechanical,MountingHole_Pad
+H4,DNP,Mechanical,MountingHole_Pad
+H5,M3,Mechanical,MountingHole
+H6,M3,Mechanical,MountingHole
+H7,M3,Mechanical,MountingHole
+H8,M3,Mechanical,MountingHole
+H9,Tooling,Mechanical,MountingHole
+H10,Tooling,Mechanical,MountingHole
+J1,miniPCIe,C444927,Connector,Bus_PCI_Express_Mini
+J2,RX,Connector_Generic,Conn_01x02
+J3,TX,Connector_Generic,Conn_01x02
+J4,CLK,Connector_Generic,Conn_01x02
+R1,10k,C25744,Device,R_Small
+TP1,3v3,Connector,TestPoint
+TP2,GND,Connector,TestPoint
+U1,AMS1117-1.5,C347219,Regulator_Linear,AMS1117-1.5

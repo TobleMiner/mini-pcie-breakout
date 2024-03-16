@@ -1,0 +1,10 @@
+fp-info-cache
+*.log
+_autosave-*
+*-rescue.dcm
+*.bak
+/*.csv
+/*.zip
+*.xml
+/lib/3rdparty
+~*

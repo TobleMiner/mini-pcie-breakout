@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Connector_Pad")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_Pad.pretty")(options "")(descr ""))
+  (lib (name "Nut_Sinhoo")(type "KiCad")(uri "${KIPRJMOD}/lib/Nut_Sinhoo.pretty")(options "")(descr ""))
+  (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/lib/ToolingHole.pretty")(options "")(descr ""))
+)
